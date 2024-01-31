@@ -5,8 +5,8 @@ public class quoremi {
         
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter the diviend value:");
-        int diviend = scanner.nextInt();
+        System.out.println("Enter the dividend value:");
+        int dividend = scanner.nextInt();
 
         System.out.println("Enter the divisor value:");
         int divisor = scanner.nextInt();
